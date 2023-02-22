@@ -1,0 +1,23 @@
+commit 6fe053c18b1ce941bc369cc7e3177f3542c0683d (HEAD -> master)
+Author: grmsf <gfmrscae@gmial.com>
+Date:   Wed Feb 22 17:52:55 2023 -0500
+
+    added gitignore
+
+commit 9c21047579efd9e3f2eb39a1046b0b58556e7c8a
+Author: grmsf <gfmrscae@gmial.com>
+Date:   Wed Feb 22 17:08:59 2023 -0500
+
+    added two files
+
+commit f8027a4876b982b8a14bc7b795b8fcce9116cb1c
+Author: grmsf <gfmrscae@gmial.com>
+Date:   Wed Feb 22 16:41:33 2023 -0500
+
+    added readme.txt
+
+commit f6b5b0bfdba2e2c15b909ff399b279fb35742057
+Author: grmsf <gfmrscae@gmial.com>
+Date:   Wed Feb 22 16:00:04 2023 -0500
+
+    added readme.txt
